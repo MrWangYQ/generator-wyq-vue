@@ -1,0 +1,13 @@
+{
+  "name": "generator-wyq-vue",
+  "version": "1.0.0",
+  "description": "generator-wyq-vue template",
+  "main": "index.js",
+  "repository": "https://MrWangYQ.me",
+  "author": "wangyaqiang",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "yeoman-generator": "5.10.0"
+  }
+}
